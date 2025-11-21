@@ -10,7 +10,7 @@ my_object + 3
 
 object6 <- 10,
 
-
+object6 <-10
 
 
 
