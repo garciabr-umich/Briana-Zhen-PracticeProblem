@@ -8,6 +8,7 @@ object2 <- 2
 my_object / 2.5
 my_object + 3
 
+object6 <- 10,
 
 
 
